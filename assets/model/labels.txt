@@ -1,0 +1,6 @@
+0 Backround
+1 Bottle
+2 Cellphone
+3 Keyboard
+4 Mouse
+5 Pen
